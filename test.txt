@@ -1,4 +1,9 @@
 Hi I'm Mani
 hi Aravind
+<<<<<<< HEAD
 this Aravind
 this my new testing application
+=======
+this is 
+aravind
+>>>>>>> 8ce21617893fba995aae88387cc1b0d3ed1f9788
